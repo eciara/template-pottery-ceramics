@@ -41,11 +41,11 @@
 import BannerTop from './../components/BannerTop';
 import ContactBlock from './../components/ContactBlock';
 import OurProducts from './../components/OurProducts';
-import OurServices from './../components/OurServices';
+import OurServices from './../components/ChooseUs/ChooseUsBlock';
 import GraphicBanner from './../components/GraphicBanner';
 import TextContainer from './../components/TextContainer';
-import CounterComponent from './../components/CounterComponent';
-import ChooseUs from './../components/ChooseUs';
+import CounterComponent from './../components/Counter/CounterComponent';
+import ChooseUs from './../components/ChooseUs/ChooseUsSection';
 import OurTeam from './../components/OurTeam';
 import CustomersOpinion from './../components/CustomersOpinion';
 
