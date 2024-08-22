@@ -25,7 +25,7 @@ export default {
 <style lang="scss">
 .home-hero-banner {
     position: relative;
-    background-image: url('../../public/images/1.jpg');
+    background-image: url('@/assets/images/1.jpg');
     background-size: cover;
     background-position: center 70%;
     color: #fff;
