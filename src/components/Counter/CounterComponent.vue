@@ -2,7 +2,7 @@
     <section class="counter">
         <div class="container">
             <div class="row">
-                <img src="./../../../public/images/couter-banner.jpg" alt="" class="counter__images">
+                <img src="@/assets/images/couter-banner.jpg" alt="" class="counter__images">
             </div>
             
             <CounterItem />
