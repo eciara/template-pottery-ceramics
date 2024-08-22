@@ -1,9 +1,9 @@
 <template>
-    <section class="section our-team">
+    <section class="section pt-3 our-team">
         <div class="container">
-            <header class="our-team__header">
-                <h2 class="our-team__title">People behind Pottero</h2>
-            </header>
+            <div class="our-team__header">
+                <h2 class="our-team__title heading-underline">People behind Pottero</h2>
+            </div>
             <div class="our-team__list">
                 <div class="row g-4">
                     <OurTeamList />
@@ -27,20 +27,6 @@ export default {
 @import '@/assets/scss/_variables.scss';
 
 .our-team {
-    &__header {
-        text-align: center;
-        margin-bottom: 2.75rem;
 
-        &:after {
-            content: '';
-            position: relative;
-            top: 1rem;
-            display: block;
-            margin-inline: auto;
-            background-color: $accent-color;
-            width: 5rem;
-            height: 3px;
-        }
-    }
 }
 </style>

@@ -18,25 +18,25 @@ export default {
             team: [
                 {
                     id: 1,
-                    img: './../../images/our-team/our-team_1.jpg',
+                    img: './assets/images/our-team/our-team_1.jpg',
                     name: 'Amelia Olson',
                     position: 'Ceramicist'
                 },
                 {
                     id: 2,
-                    img: './../../images/our-team/our-team_2.jpg',
+                    img: './assets/images/our-team/our-team_2.jpg',
                     name: 'George Evans',
                     position: 'Ceramics technologist'
                 },
                 {
                     id: 3,
-                    img: './../../images/our-team/our-team_3.jpg',
+                    img: './assets/images/our-team/our-team_3.jpg',
                     name: 'Olivia Conley',
                     position: 'Ceramics designer'
                 },
                 {
                     id: 4,
-                    img: './../../images/our-team/our-team_4.jpg',
+                    img: './assets/images/our-team/our-team_4.jpg',
                     name: 'Thomas Hanson',
                     position: 'Ceramic glazier'
                 },
