@@ -15,6 +15,7 @@
     "@fortawesome/vue-fontawesome": "^3.0.6",
     "bootstrap": "^5.3.3",
     "core-js": "^3.8.3",
+    "swiper": "^11.1.10",
     "vue": "^3.2.13",
     "vue-animated-counter": "^0.3.0",
     "vue-router": "^4.3.0"
