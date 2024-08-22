@@ -148,7 +148,7 @@ export default {
 @import '@/assets/scss/_variables.scss';
 
 .footer {
-    background-image: url('../../../public/images/footer-bg.jpg');
+    background-image: url('@/assets/images/footer-bg.jpg');
     background-size: cover;
     background-position: center;
     &__heading {
