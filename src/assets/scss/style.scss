@@ -32,7 +32,8 @@ h2 {
     }
 }
 
-h3, h4 {
+h3,
+h4 {
     font-size: 1.2rem;
 }
 
@@ -46,7 +47,7 @@ a {
     color: $primary-color;
     text-decoration: none;
     transition: color .35s linear;
-    
+
     &:hover {
         color: $accent-color;
     }
@@ -59,8 +60,25 @@ a {
     color: $accent-color;
 }
 
+.heading-underline {
+    text-align: center;
+    margin-bottom: 4rem;
+
+    &:after {
+        content: '';
+        position: relative;
+        top: 1.5rem;
+        display: block;
+        margin-inline: auto;
+        background-color: $accent-color;
+        width: 5rem;
+        height: 3px;
+    }
+}
+
 .section {
     padding-block: 5rem;
+
     &__aside {
         display: flex;
         flex-direction: column;
