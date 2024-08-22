@@ -28,7 +28,7 @@ export default {
             services: [
                 {
                     id: 1,
-                    img: './../../images/our-services/our-services-1.jpg',
+                    img: '@/assets/images/our-services/our-services_1.jpg',
                     title: 'Beginner Class',
                     desc: 'It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.',
                     path: '/contact',
@@ -36,7 +36,7 @@ export default {
                 },
                 {
                     id: 2,
-                    img: './../../images/our-services/our-services-5.jpg',
+                    img: '@/assets/images/our-services/our-services_5.jpg',
                     title: 'Sculpture Class',
                     desc: 'Cras ut turpis cursus, laoreet sapien vel, orn content of a page when looking at its layout.',
                     path: '/contact',
@@ -51,7 +51,7 @@ export default {
                 },
                 {
                     id: 4,
-                    img: './../../images/our-services/our-services-3.jpg',
+                    img: '@/assets/images/our-services/our-services_3.jpg',
                     title: 'Junior Class',
                     desc: 'Proin ex enim, luctus venenatis felis quis.',
                     path: '#',
@@ -59,7 +59,7 @@ export default {
                 },
                 {
                     id: 5,
-                    img: './../../images/our-services/our-services-4.jpg',
+                    img: '@/assets/images/our-services/our-services_4.jpg',
                     title: 'Group Class',
                     desc: 'It is a long established fact that a reader will be distracted by the readable.',
                     path: '#',
@@ -67,7 +67,7 @@ export default {
                 },
                 {
                     id: 6,
-                    img: './../../images/our-services/our-services-5.jpg',
+                    img: '@/assets/images/our-services/our-services_5.jpg',
                     title: 'Mastering Class',
                     desc: 'Nam ut neque quis nulla interdum euismod a eu justo.',
                     path: '#',
