@@ -47,7 +47,7 @@ import TextContainer from './../components/TextContainer';
 import Counter from './../components/Counter/CounterComponent';
 import ChooseUs from './../components/ChooseUs/ChooseUsSection';
 import OurTeam from './../components/OurTeam/OurTeamSection';
-import Testimonials from './../components/TestimonialsSection';
+import Testimonials from './../components/Testimonials/TestimonialsSection';
 
 export default {
     name: 'HomeView',
